@@ -1,4 +1,4 @@
-# HR-Employee-Attrition
+# IBM HR Analytics Employee Attrition & Performance
 
 ## Tasks to perform: 
 ## Data Cleaning:
