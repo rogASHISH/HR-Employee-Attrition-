@@ -1,5 +1,7 @@
 # IBM HR Analytics Employee Attrition & Performance
 
+## About Dataset
+Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 ## Tasks to perform: 
 ## Data Cleaning:
 - Deleting redundant columns.
@@ -28,7 +30,7 @@
 ## 📋 STEPS FOLLOWED:
 
 ## ✅ DATA IMPORT:
-First I Gathered data from Meriskill and imported it into Tabeau for data transformation
+First I Gathered data from IBM Dataset and imported it into Tabeau for data transformation
 
 ## ✅ DATA TRANSFORMATION:
 Used Tableau Query to clean the data, removed nulls and duplicates, and fine-tuned data types.
